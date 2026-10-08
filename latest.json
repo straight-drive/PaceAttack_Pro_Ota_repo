@@ -1,6 +1,5 @@
-﻿{
+{
   "version": "1.0.5",
-  "file": "https://raw.githubusercontent.com/straight-drive/PaceAttack_Pro_Ota_repo/main/PaceAttackPro_App_firmware_v1.bin",
-  "sha256": "c8c8a278b471b56bc74b71821300ab11b2025a0ebb65ef754c72d12fc426068d",
+  "file": "https://raw.githubusercontent.com/straight-drive/PaceAttack_Pro_Ota_repo/main/PaceAttackPro_App_firmware_v1_0_5.bin",
   "model": "PA_PRO"
 }
